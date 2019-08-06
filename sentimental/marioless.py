@@ -1,3 +1,4 @@
+# Draws out half a pyramid
 # Takes user input as pyramid's height
 
 from cs50 import get_int
