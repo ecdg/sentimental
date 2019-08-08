@@ -27,5 +27,6 @@ My Python implementation of a couple of programs I made previously using C in th
    
 4. **Caesar**
 
-
+   Caesar is an encryption program. It encrypts messages using Caesar's cipher.
+   
    [Documentation](https://docs.cs50.net/2019/x/psets/6/sentimental/caesar/caesar.html) for [caesar.py](https://github.com/emilyd17/sentimental/blob/master/sentimental/caesar.py)
