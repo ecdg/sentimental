@@ -3,11 +3,15 @@ My Python implementation of a couple of programs I made previously using C in th
 
 1. **Marioless**
 
+   Takes user input as pyramid's height and forms one side of a pyramid.
+
 
    [Documentation](https://docs.cs50.net/2019/x/psets/6/sentimental/mario/less/mario.html) for [marioless.py](https://github.com/emilyd17/sentimental/blob/master/sentimental/marioless.py)
    
    
 2. **Mariomore**
+
+   Takes user input as pyramid's height and forms a pyramid.
 
 
    [Documentation](https://docs.cs50.net/2019/x/psets/6/sentimental/mario/more/mario.html) for [mariomore.py](https://github.com/emilyd17/sentimental/blob/master/sentimental/mariomore.py)
