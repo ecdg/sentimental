@@ -27,6 +27,6 @@ My Python implementation of a couple of programs I made previously using C in th
    
 4. **Caesar**
 
-   Caesar is an encryption program. It takes a plaintext and converts it to a ciphertext using encryption. The program takes a command-line argument from the user as the key to be used to implement Caesar's cipher for encryption. Afterwards, the program takes a message from the user as the plaintext. Then, it encrypts the plaintext using Caesar's cipher with the key inputted earlier by the user. Eventually, after the plaintext is converted to ciphertext, the program prints out the ciphertext.
+   Caesar is an encryption program. It takes a plaintext and converts it to a ciphertext using encryption. The program takes a command-line argument from the user as the key to be used to implement Caesar's cipher for encryption. Afterwards, the program takes a message from the user as the plaintext. Then, it encrypts the plaintext using Caesar's cipher with the key inputted earlier by the user. This will convert the plaintext to ciphertext, thus the program prints out the ciphertext at the end.
    
    [Documentation](https://docs.cs50.net/2019/x/psets/6/sentimental/caesar/caesar.html) for [caesar.py](https://github.com/emilyd17/sentimental/blob/master/sentimental/caesar.py)
