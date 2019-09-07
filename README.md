@@ -19,7 +19,7 @@ My Python implementation of a couple of programs I made previously using C in th
    
 3. **Cash**
 
-   Cash is an implementation of Greedy algorithm. The user inputs how much change is owed then the program prints the minimum number of coins with which that change can be made.
+   Cash is an implementation of Greedy algorithm. The user inputs how much change is owed, then the program prints the minimum number of coins with which that change can be made.
    
    
    [Documentation](https://docs.cs50.net/2019/x/psets/6/sentimental/cash/cash.html) for [cash.py](https://github.com/emilyd17/sentimental/blob/master/sentimental/cash.py)
